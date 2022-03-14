@@ -1,3 +1,3 @@
 # Covid-GuideLine-Website
 
-live website link--http://64.227.186.52/
+live website link-- https://amanroy2001.github.io/Covid-GuideLine-Website/
